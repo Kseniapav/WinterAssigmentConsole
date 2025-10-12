@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CulinaryDictionaryConsole", "CulinaryDictionaryConsole.csproj", "{16878DDD-8ADA-45C7-B0EF-FF78B29E056B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLib", "..\MyLib\MyLib.csproj", "{57E721CC-BA00-43CF-9EB8-454F09938FBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16878DDD-8ADA-45C7-B0EF-FF78B29E056B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16878DDD-8ADA-45C7-B0EF-FF78B29E056B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16878DDD-8ADA-45C7-B0EF-FF78B29E056B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16878DDD-8ADA-45C7-B0EF-FF78B29E056B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57E721CC-BA00-43CF-9EB8-454F09938FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57E721CC-BA00-43CF-9EB8-454F09938FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57E721CC-BA00-43CF-9EB8-454F09938FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57E721CC-BA00-43CF-9EB8-454F09938FBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F315D4BE-C466-4EAB-99CE-2DF176814024}
+	EndGlobalSection
+EndGlobal
